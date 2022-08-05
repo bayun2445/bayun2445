@@ -1,4 +1,5 @@
-#Hello, I'm Bayu Nugroho. 
+# Hello, I'm Bayu Nugroho.
+
 I am currently an Informatic Egineering Student from Indonesia. I am interested in Mobile and Fron-End Web development.
 
 <p align="left">
