@@ -8,5 +8,3 @@ I am currently an Informatic Egineering Student from Indonesia. I am interested 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayun2445&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-[gambar](https://github.com/bayun2445/Exonimals/blob/main/app/src/main/res/drawable/anglerfish.jpg "a title")
