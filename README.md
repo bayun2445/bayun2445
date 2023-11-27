@@ -1,6 +1,6 @@
 # Hello, I'm Bayu Nugroho.
 
-I am currently an Informatic Engineering Student from Indonesia. I am a Mobile Development enthusiast. Welcome to my GitHub profile.
+Currently, I'm an Informatics Engineering Student at Politeknik Negeri Jakarta from Indonesia. I am a Mobile Development enthusiast. Welcome to my GitHub profile.
 
 <p align="left">
 <a href="https://github.com/bayun2445">
