@@ -18,12 +18,3 @@ Since 2025 I've worked as an Android Developer at **Moladin** on an automotive f
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
-### 📊 GitHub Stats
-
-<p align="left">
-<a href="https://github.com/bayun2445">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayun2445&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayun2445&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
